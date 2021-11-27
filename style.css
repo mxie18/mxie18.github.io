@@ -1,0 +1,198 @@
+
+h1, h2, h3, h4, h5, h6, p {
+    color:white;
+    text-align: center;
+}
+
+body{
+    background-image: url("../mountains-g029cfdfbd_1920.jpg");
+    background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+
+.bullet{
+    text-align: left;
+}
+
+.description{
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.littlespace{
+    margin-top: 30px;
+}
+
+.project{
+    padding-top: 10px;
+    width: 40vw;
+    background: rgba(0, 0, 0, 0.2);
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    text-align: left;
+    height: 35vh;
+}
+
+
+.topbox{
+    border-style: solid;
+    border-color: rgba(139, 192, 232, 0.5);
+    background: rgba(173, 216, 230, 0.2);
+    margin-left: 50px;
+    margin-right: 50px;
+    border-width: 1px;
+    border-radius: 10px;
+    height: 90px;
+}
+
+.links{
+    width: 50%;
+    text-align: center;
+}
+
+.leftemail{
+    padding-left: 35%;
+}
+
+.rightlinks{
+    padding-right: 35%;
+}
+
+.smallbox{
+    height: 300px;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.box{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 900px;
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    padding: 30px;
+}
+
+.longbox{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 1800px;
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    padding: 30px;
+}
+
+.split{
+    min-height: 80vh;
+    display:flex;
+}
+
+.newsplit{
+    min-height: 10vh;
+    display:flex
+}
+
+.left{
+    width:50vw;
+    background-image: url("../IMG_0302.jpg");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    text-align: center;
+    background-position-x: center;
+    background-position-y: 40px;
+}
+
+.loadedimg{
+    width:50vw;
+    background-image: url("../ImageLoaded.png");
+    background-repeat: no-repeat;
+    background-size: 800px;
+    text-align: center;
+    background-position-x: center;
+    background-position-y: 40px;
+}
+
+.format {
+    width:50vw;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position-x: center;
+    background-position-y: 40px;
+}
+
+
+#first {
+    padding: 105px;
+}
+
+#second {
+    padding-top: 200px;
+}
+
+.right{
+    width:50vw;
+    font-size: 25px;
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.nobullet{
+    display: inline-block;
+    list-style: none;
+}
+
+.learnmore{
+    margin-left: 20vw;
+    margin-top: 5vw;
+}
+
+
+
+
+.border{
+    display:inline-block;
+    margin-right: 20px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+
+nav{
+    text-align: center;
+    margin: 10px;
+}
+
+a { 
+    text-decoration: none; 
+    color: white;
+    font-size: 20px;
+}
+
+.icon{
+    font-size: 100px;
+}
+
+.work{
+    font-size: 100px;
+}
