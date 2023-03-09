@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
 h1,
 h2,
 h3,
@@ -12,7 +14,7 @@ p {
 body {
   background-image: url("images/mountains-g029cfdfbd_1920.jpg");
   background-size: cover;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .bullet {
@@ -40,8 +42,8 @@ body {
   margin-left: 50px;
   margin-right: 50px;
   border-radius: 10px;
-  text-align: left;
-  height: 40vh;
+  text-align: center;
+  height: 30vh;
 }
 
 .topbox {
@@ -154,7 +156,7 @@ body {
 
 .right {
   width: 50vw;
-  font-size: 25px;
+  font-size: 20px;
   background: rgba(0, 0, 0, 0.2);
   text-align: center;
   padding-right: 30px;
@@ -194,9 +196,5 @@ a {
 }
 
 .icon {
-  font-size: 100px;
-}
-
-.work {
   font-size: 100px;
 }
